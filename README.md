@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TkI3&label=Profile views&color=0e75b6&style=flat" alt="TkI3" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TkI3" alt="TkI3" /></a> </p>
+<p align="left"> <a href="https://avatars.githubusercontent.com/u/290574291?v=4"><img src="https://github-profile-trophy.vercel.app/?username=TkI3" alt="TkI3" /></a> </p>
 
 - 🌱 I'm currently learning **Python C Bun JavaScript Qml**
 
