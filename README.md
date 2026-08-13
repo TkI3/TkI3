@@ -105,7 +105,11 @@ Currently, I'm learning **Advanced Python, MySQL, Qt Quick, Bun, and Java**, whi
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TkI3&theme=radical&hide_border=true&timezone=%2B1&mode=weekly)](https://git.io/streak-stats)
+<div align="center">
+
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=TkI3&theme=radical&hide_border=true)](https://github.com/denvercoder1/github-readme-streak-stats)
+
+</div>
 
 ## 📈 Activity Graph
 
