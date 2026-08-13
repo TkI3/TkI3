@@ -26,7 +26,7 @@
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
 **Tk13 , Here — a 2nd-year Computer Science student focused on backend development.**
 
@@ -50,8 +50,9 @@ Currently, I'm learning **Advanced Python, MySQL, Qt Quick, Bun, and Java**, whi
 
 >My goal is to become a skilled engineer capable of building useful tools and systems that can genuinely help people around the world — but most importantly, **to have fun doing what I love.**
 
+---
 
-## 🤝 Connect
+### 🤝 Connect
 
 <p align="center">
   <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
@@ -61,9 +62,9 @@ Currently, I'm learning **Advanced Python, MySQL, Qt Quick, Bun, and Java**, whi
   <a href="mailto:kaiqfureshi3672@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
+---
 
-
-## 💻 Tech Stack
+### 💻 Tech Stack
 
 <table width="100%" style="border-collapse: collapse;">
   <tr>
@@ -116,6 +117,8 @@ Currently, I'm learning **Advanced Python, MySQL, Qt Quick, Bun, and Java**, whi
   </tr>
   <tr><td></td><td></td></tr>
 </table>
+
+---
 
 ## 📊 GitHub Stats
 
