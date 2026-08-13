@@ -30,28 +30,25 @@
 
 **Tk13 , Here — a 2nd-year Computer Science student focused on backend development.**
 
-<table>
-  <tr>
-    <td valign="center">
-      <blockquote>I enjoy building everything from fun little projects to more serious and ambitious things. I love taking on challenges and turning ideas into reality, improving my understanding of real-world backend systems.
-  </td>
-  <td width="180" align="center" valign="middle">
+<p align="center">
+  <img
+    src="https://github.com/TkI3.png"
+    alt="Photo de profil"
+    width="150"
+    height="150"
+    style="border-radius: 50%; object-fit: cover;"
+  >
+</p>
 
-  <img src="https://github.com/TkI3.png"
-      alt="Tk13_"
-      width="150"
-      height="150"
-      style="border-radius: 50%; object-fit: cover;">
 
-  </td>
-  </tr>
-</table>
+>I enjoy building everything from fun little projects to more serious and ambitious things. I love taking on challenges and turning ideas into reality, improving my understanding of real-world backend systems.
+
 
 Currently, I'm learning **Advanced Python, MySQL, Qt Quick, Bun, and Java**, while sharpening my problem-solving skills through **Data Structures & Algorithms** and working on **small AI simulations**.
 
 ### 🎯 My Goal
 
-> My goal is to become a skilled engineer capable of building useful tools and systems that can genuinely help people around the world — but most importantly, **to have fun doing what I love.**
+>My goal is to become a skilled engineer capable of building useful tools and systems that can genuinely help people around the world — but most importantly, **to have fun doing what I love.**
 
 
 ## 🤝 Connect
