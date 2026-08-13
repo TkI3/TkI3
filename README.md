@@ -1,28 +1,147 @@
-# Hi 👋, I'm Tk13_
+<img src="https://i.pinimg.com/736x/d4/44/ec/d444ec944c3785ebb3b03519a41f6174.jpg" alt="Banner" width="100%">
 
-### A computer science student 
+<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TkI3&label=Profile views&color=0e75b6&style=flat" alt="TkI3" /> </p>
+<h1 align="center"> Hi 👋, Imma Tk13_</h1>
 
-<p align="left"> <a href="https://avatars.githubusercontent.com/u/290574291?v=4"><img src="https://github-profile-trophy.vercel.app/?username=TkI3" alt="TkI3" /></a> </p>
+<h3 align="center">I.T Student </h3>
 
-- 🌱 I'm currently learning **Python C Bun JavaScript Qml**
-
-- 📫 How to reach me **t13k9.243@gmail.com**
-
-- ⚡ Fun fact **1-1 equals 0, incredible, isn't it? **
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/TkI3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="TkI3" height="30" width="40" /></a>
+<p align="center">
+  <code>Hello World</code>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/qt" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=qt" alt="qt" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sass" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a></p>
+<!-- <p align="center">
+  <img
+    src="https://github.com/TkI3.png"
+    alt="Photo de profil"
+    width="150"
+    height="150"
+    style="border-radius: 50%; object-fit: cover;"
+  >
+</p> -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TkI3&show_icons=true&locale=en&layout=compact" alt="TkI3" /></p>
+<p align="center">
+  Building reliable backend systems with clean architecture and scalable solutions.
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TkI3&show_icons=true&locale=en" alt="TkI3" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TkI3&" alt="TkI3" /></p>
+## 🚀 About Me
+
+**Tk13 , Here — a 2nd-year Computer Science student focused on backend development.**
+
+<table>
+  <tr>
+    <td valign="center">
+      <blockquote>I enjoy building everything from fun little projects to more serious and ambitious things. I love taking on challenges and turning ideas into reality, improving my understanding of real-world backend systems.
+  </td>
+  <td width="180" align="center" valign="middle">
+
+  <img src="https://github.com/TkI3.png"
+      alt="Tk13_"
+      width="150"
+      height="150"
+      style="border-radius: 50%; object-fit: cover;">
+
+  </td>
+  </tr>
+</table>
+
+Currently, I'm learning **Advanced Python, MySQL, Qt Quick, Bun, and Java**, while sharpening my problem-solving skills through **Data Structures & Algorithms** and working on **small AI simulations**.
+
+### 🎯 My Goal
+
+> My goal is to become a skilled engineer capable of building useful tools and systems that can genuinely help people around the world — but most importantly, **to have fun doing what I love.**
+
+
+## 🤝 Connect
+
+<p align="center">
+  <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://wa.me/243979142741">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+  <a href="mailto:kaiqfureshi3672@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+</p>
+
+
+
+## 💻 Tech Stack
+
+<table width="100%" style="border-collapse: collapse;">
+  <tr>
+    <th align="left" style="text-align:center">Domain</th>
+    <th align="left" style="border-left: 1px solid #444; padding-left: 20px; text-align:center">
+      Technologies
+    </th>
+  </tr>
+
+  <tr>
+    <td><b>Web Development</b> 🌐</td>
+    <td style="border-left: 1px solid #444; padding-left: 20px;">
+      <img src="https://skillicons.dev/icons?i=bun,html,scss,css,js" height="40">
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Software Development</b> 🖥️</td>
+    <td style="border-left: 1px solid #444; padding-left: 20px;">
+      <img src="https://skillicons.dev/icons?i=python,qt" height="40">
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Low-Level Development</b> ⚙️</td>
+    <td style="border-left: 1px solid #444; padding-left: 20px;">
+      <img src="https://skillicons.dev/icons?i=c" height="40">
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Databases</b> 🗄️</td>
+    <td style="border-left: 1px solid #444; padding-left: 20px;">
+      <img src="https://skillicons.dev/icons?i=mysql,sqlite" height="40">
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Tools</b> 🛠️</td>
+    <td style="border-left: 1px solid #444; padding-left: 20px;">
+      <img src="https://skillicons.dev/icons?i=git,github" height="40">
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>IDE & Design Tools</b> 💻</td>
+    <td style="border-left: 1px solid #444; padding-left: 20px;">
+      <img src="https://skillicons.dev/icons?i=vscode,pycharm,qt" height="40">
+    </td>
+  </tr>
+  <tr><td></td><td></td></tr>
+</table>
+
+## 📊 GitHub Stats
+
+<p>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=TkI3"
+    alt="GitHub Streak"
+    width="100%"
+  />
+</p>
+
+
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tki3&theme=github-compact&hide_border=true" alt="midnight.shady's Contribution Graph">
+</p>
+
+---
+
+<p align="center">
+  <i>Build, break, learn, repeat.</i>
+</p>
+
 
