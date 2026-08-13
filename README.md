@@ -66,71 +66,46 @@ Currently, I'm learning **Advanced Python, MySQL, Qt Quick, Bun, and Java**, whi
 
 ### 💻 Tech Stack
 
-<table width="100%" style="border-collapse: collapse;">
-  <tr>
-    <th align="left" style="text-align:center">Domain</th>
-    <th align="left" style="border-left: 1px solid #444; padding-left: 20px; text-align:center">
-      Technologies
-    </th>
-  </tr>
+<div align="center">
 
-  <tr>
-    <td><b>Web Development</b> 🌐</td>
-    <td style="border-left: 1px solid #444; padding-left: 20px;">
-      <img src="https://skillicons.dev/icons?i=bun,html,scss,css,js" height="40">
-    </td>
-  </tr>
+#### 🌐 Web Development
 
-  <tr>
-    <td><b>Software Development</b> 🖥️</td>
-    <td style="border-left: 1px solid #444; padding-left: 20px;">
-      <img src="https://skillicons.dev/icons?i=python,qt" height="40">
-    </td>
-  </tr>
+![Bun](https://img.shields.io/badge/Bun-000000?logo=bun&logoColor=FFD80B&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![SCSS](https://img.shields.io/badge/SCSS-CF649A?logo=sass&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 
-  <tr>
-    <td><b>Low-Level Development</b> ⚙️</td>
-    <td style="border-left: 1px solid #444; padding-left: 20px;">
-      <img src="https://skillicons.dev/icons?i=c" height="40">
-    </td>
-  </tr>
+#### 🖥️ Software Development
 
-  <tr>
-    <td><b>Databases</b> 🗄️</td>
-    <td style="border-left: 1px solid #444; padding-left: 20px;">
-      <img src="https://skillicons.dev/icons?i=mysql,sqlite" height="40">
-    </td>
-  </tr>
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Qt](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge)
 
-  <tr>
-    <td><b>Tools</b> 🛠️</td>
-    <td style="border-left: 1px solid #444; padding-left: 20px;">
-      <img src="https://skillicons.dev/icons?i=git,github" height="40">
-    </td>
-  </tr>
 
-  <tr>
-    <td><b>IDE & Design Tools</b> 💻</td>
-    <td style="border-left: 1px solid #444; padding-left: 20px;">
-      <img src="https://skillicons.dev/icons?i=vscode,pycharm,qt" height="40">
-    </td>
-  </tr>
-  <tr><td></td><td></td></tr>
-</table>
 
----
+#### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge)
+
+#### 🛠️ Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
+
+#### 💻 IDE & Design Tools
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white&style=for-the-badge)
+![Qt Creator](https://img.shields.io/badge/Qt%20Creator-41CD52?logo=qt&logoColor=white&style=for-the-badge)
+
+</div>
 
 ## 📊 GitHub Stats
 
-<p>
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=TkI3"
-    alt="GitHub Streak"
-    width="100%"
-  />
-</p>
-
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TkI3&theme=radical&hide_border=true&timezone=%2B1&mode=weekly)](https://git.io/streak-stats)
 
 ## 📈 Activity Graph
 
